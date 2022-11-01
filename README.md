@@ -28,3 +28,25 @@ Task 1 PRODUCT LEVEL SALES ANALYSIS
 Task 2 Impact of New Product Launch
 
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/74843963/199258837-c0c84db9-ab94-4908-a6af-9f1184685ad3.png">
+
+
+Task 3 PRODUCT PATHING ANALYSIS
+
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/74843963/199355288-19b710e6-0f8f-4b1e-9ab2-f6d8d1d0ae4f.png">
+
+
+
+Task 4 Product Conversion Funnels
+
+
+<img width="332" alt="image" src="https://user-images.githubusercontent.com/74843963/199357122-d7df5769-5360-4ac3-999f-ea86f167225c.png">
+
+
+Task 6 Recent Product Launch
+
+<img width="337" alt="image" src="https://user-images.githubusercontent.com/74843963/199358211-be3e291c-1926-4f04-b7ef-666af6b0ace5.png">
+
+
+Task 7 Quality Issues & Refunds
+
+<img width="226" alt="image" src="https://user-images.githubusercontent.com/74843963/199358406-201b1515-f10f-4a70-8cc7-1b15dd868bf2.png">
