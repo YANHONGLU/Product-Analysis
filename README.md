@@ -42,6 +42,13 @@ Task 4 Product Conversion Funnels
 <img width="332" alt="image" src="https://user-images.githubusercontent.com/74843963/199357122-d7df5769-5360-4ac3-999f-ea86f167225c.png">
 
 
+Task 5 CROSS-SELL ANALYSIS
+
+
+<img width="252" alt="image" src="https://user-images.githubusercontent.com/74843963/199474306-543a77c1-f641-48f6-bc9d-49de60bed7e3.png">
+
+
+
 Task 6 Recent Product Launch
 
 <img width="337" alt="image" src="https://user-images.githubusercontent.com/74843963/199358211-be3e291c-1926-4f04-b7ef-666af6b0ace5.png">
@@ -50,3 +57,7 @@ Task 6 Recent Product Launch
 Task 7 Quality Issues & Refunds
 
 <img width="226" alt="image" src="https://user-images.githubusercontent.com/74843963/199358406-201b1515-f10f-4a70-8cc7-1b15dd868bf2.png">
+
+
+
+
